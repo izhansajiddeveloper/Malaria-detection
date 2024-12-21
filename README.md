@@ -1,1 +1,1 @@
-# Malaria-detection
+Malaria Detection is an advanced AI-powered solution that analyzes blood cell images to identify malaria infections accurately. Utilizing cutting-edge machine learning models, it ensures fast, reliable, and early diagnosis to aid in effective treatment. Empower healthcare with technology-driven insights to combat malaria efficiently.
